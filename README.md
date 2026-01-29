@@ -1,6 +1,6 @@
 # GCA-Trans
 
-**GCA-Trans: Global Context Aware Transformer for Segmenting Transparent Objects of Arbitrary Scales**, [[paper](https:)].
+**GCA-Trans: Global Context Aware Transformer for Transparent Object Perception in Robotic Environments**, [[paper](https:)].
 
 
 ## Installation

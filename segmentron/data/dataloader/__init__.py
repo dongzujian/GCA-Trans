@@ -1,11 +1,13 @@
 """
 This module provides data loaders and transformers for popular vision datasets.
 """
+from .cityscapes import CitySegmentation
 from .transparent11 import TransparentSegmentation
 from .gdd import gdd
 from .gsd import gsd
 from .rgbdgsd import rgbdgsd
 datasets = {
+    'cityscape': CitySegmentation,
     'transparent11': TransparentSegmentation, 
     'gdd': gdd,
     'gsd': gsd,

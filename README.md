@@ -28,7 +28,7 @@ python setup.py develop --user
 ```
 
 ## Datasets
-Create `datasets` directory and prepare [Cityscapes]([https://mhaiyang.github.io/CVPR2020_GDNet/](https://www.cityscapes-dataset.com/)), [GDD](https://mhaiyang.github.io/CVPR2020_GDNet/), [GSD](https://jiaying.link/cvpr2021-gsd/), [RGBDGSD](https://jiaying.link/AAAI25-RGBDGlass/), and [Trans10K](https://github.com/xieenze/Trans2Seg#data-preparation) datasets as the structure below:
+Create `datasets` directory and prepare [Cityscapes](https://www.cityscapes-dataset.com/), [GDD](https://mhaiyang.github.io/CVPR2020_GDNet/), [GSD](https://jiaying.link/cvpr2021-gsd/), [RGBDGSD](https://jiaying.link/AAAI25-RGBDGlass/), and [Trans10K](https://github.com/xieenze/Trans2Seg#data-preparation) datasets as the structure below:
 
 ```text
 ./datasets
